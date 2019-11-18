@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestPcController", "src\RestPcController\RestPcController.csproj", "{01A52334-0522-4515-A6AC-D9F3257120BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01A52334-0522-4515-A6AC-D9F3257120BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01A52334-0522-4515-A6AC-D9F3257120BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01A52334-0522-4515-A6AC-D9F3257120BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01A52334-0522-4515-A6AC-D9F3257120BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BE1E720-767D-498E-9B20-B606C186145F}
+	EndGlobalSection
+EndGlobal
